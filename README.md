@@ -1,5 +1,7 @@
 # Streamlit OpenAI Whisper Demo
 
+Required Python 3.9.1
+
 ## Getting started
 
 1. Install [Poetry](https://github.com/python-poetry/poetry)
