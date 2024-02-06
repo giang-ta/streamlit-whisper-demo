@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "streamlit-whisper"
+version = "0.1.0"
+description = ""
+authors = ["Giang Ta <giangta@futurify.vn>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.9.1"
+streamlit = "^1.31.0"
+openai-whisper = "^20231117"
+librosa = "^0.10.1"
+numpy = "^1.26.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
